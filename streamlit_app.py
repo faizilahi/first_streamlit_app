@@ -1,3 +1,4 @@
+import streamlit
 
 # Note: change this value for a different result
 num = 8 
